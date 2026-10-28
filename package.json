@@ -1,0 +1,20 @@
+{
+    "name": "game-off-2026",
+    "private": true,
+    "version": "0.1.0",
+    "description": "Entry for GitHub Game Off 2026, built with Phaser and TypeScript.",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite --config vite/config.dev.mjs",
+        "build": "vite build --config vite/config.prod.mjs",
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "phaser": "^4.2.1"
+    },
+    "devDependencies": {
+        "terser": "^5.39.0",
+        "typescript": "~5.7.2",
+        "vite": "^6.3.1"
+    }
+}
