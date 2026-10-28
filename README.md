@@ -40,7 +40,7 @@ itch.io, download it from the workflow run, keep it as a `.zip` with
 
 ## Jam checklist
 
-- [ ] November 1: read the theme on the [jam page](https://itch.io/jam/game-off-2026)
+- [ ] November 1: read the theme on the [jam page](https://itch.io/jam/game-off-2026) and pick the idea with the one-hour process in [docs/ideas.md](docs/ideas.md)
 - [ ] Pick a name; update the `<title>` in `index.html` and this README
 - [ ] Replace the placeholder scenes with the game
 - [ ] Credit any third-party art, audio or code below
